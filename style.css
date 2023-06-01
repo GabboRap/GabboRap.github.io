@@ -10,19 +10,7 @@ body {
 
 
   
-@keyframes example {
-    from {background-color: red;}
-    to {background-color: yellow;}
-  }
-  
-  /* The element to apply the animation to */
-  h1 {
-    width: 100px;
-    height: 100px;
-    background-color: red;
-    animation-name: example;
-    animation-duration: 4s;
-  }
+
 
 
 

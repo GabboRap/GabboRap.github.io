@@ -7,6 +7,10 @@
 
 
 
+.wrapper.two {
+    background-color: #F9629F;
+    font-size: 6rem;
+    font-family: "Play", sans-serif;
 }
 .neon h3 {
     margin: 1rem auto;

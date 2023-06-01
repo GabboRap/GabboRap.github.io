@@ -23,7 +23,8 @@ a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
-
+    border: 5px solid #fd0707;
+   
     text-decoration: none;
     color: burlywood;
 }
@@ -34,5 +35,6 @@ a.button {
     color: white;
     text-align: center;
   }
+  
   
   

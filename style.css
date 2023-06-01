@@ -16,7 +16,7 @@ body {
 }
 
 
-  
+ 
 
 
 a.button {
@@ -25,8 +25,9 @@ a.button {
     appearance: button;
     border: 5px solid #fd0707;
    
+    text-size-adjust: "width:340px;px;height:250px;";
     text-decoration: none;
-    color: burlywood;
+    color: rgb(3, 3, 3);
 }
 
 

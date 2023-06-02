@@ -1,5 +1,5 @@
 
-
+/* Navbar model: */
 
 /* Add a black background color to the top navigation */
 .topnav {
@@ -31,7 +31,7 @@
   }
 
 
-
+/* Navbar end: */
 
 
 
@@ -45,6 +45,7 @@ body {
 
  
 
+/* button example: */
 
 a.button {
     -webkit-appearance: button;
@@ -57,7 +58,7 @@ a.button {
     color: rgb(3, 3, 3);
 }
 
-
+/* button end: */
 
   h1 {
     color: white;
